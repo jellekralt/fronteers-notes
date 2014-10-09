@@ -54,9 +54,15 @@ Once you start doing that theres no stopping it
 
 The question "Should I do this?"doesnt get asked often enough
 
+Developer: HOW should I do this?
+Designer: SHOULD I do this?
+
 Not part of best practices:
 **Tab key**
 We pay expensive usability experts after the projects to click tab key for us
+
+## Q&A with Jake
+Flexbox is really powerful but it takes a lot of time to learn
 
 
 
