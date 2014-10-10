@@ -40,7 +40,8 @@ mobile / tweetdeck / analytics / ads / vine
 	* Shift away from concept of internal consusltant
 	* Docbird
  
-"If HP knew what HP knows, we would be 4 times more profitable" -- Lew Platt, former CEO of HP
+> "If HP knew what HP knows, we would be 4 times more profitable" 
+> -- Lew Platt, former CEO of HP
 
 
 ## System overview
@@ -54,6 +55,7 @@ Node.js
 * Simple developer workflow
  
 Each task is quite huge
+
 ```
 web-client
 |- package.json
@@ -66,7 +68,8 @@ web-client
 
 ## UI components
 Tweetbox has no specific code, based on a pile of existing components
-```
+
+``` 
 web-client/src/web_modules/
 |- character-counter
 |- product-data-store
@@ -77,7 +80,8 @@ web-client/src/web_modules/
 |- ui-ProgressBar
 |- ui-Replybox
 ```
-```
+
+``` 
 web-client/src/web_modules/ui-Icon/
 |- OWNERS
 |- README
@@ -112,11 +116,13 @@ this.remote
 ```
 
 ### Component Object Design
+```
 Homepage.signup = Signup
 
 Homepage.signup.username('necolas');
 Homepage.signup.password('****')
 Homepage.signup.submit()
+```
 
 ## Asset pipline
 **Webpack** module bundler
