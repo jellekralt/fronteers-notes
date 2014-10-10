@@ -29,7 +29,7 @@ HTML has box model, SVG does not know the element box model
 * object
 * embed
 * iframe
-* <svg></svg>
+* ```<svg></svg>```
  
 ## Animating SVG with SMIL
 Synchonized Multimedia Integration Language
@@ -39,7 +39,7 @@ Synchonized Multimedia Integration Language
 SMIL has some advantages over CSS and JS
 * Can anim attrs that CSS can't
 * Event handling & animi sync capabilities
-* Anims work when SVG is embedded as <img> or as backgr image in CSS
+* Anims work when SVG is embedded as ```<img>``` or as backgr image in CSS
  
 SVG SMIL anims work in **all browsers** except IE and Opera Mini
 
