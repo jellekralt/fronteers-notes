@@ -11,8 +11,8 @@ Before CSS: SVG persentation attrs
 In SVG2, more presentation attributes will be added
 
 * Inline styles (style="")
-* Embedded styles (<style>) inside SVG
-* Embedded styles (<style>) outside SVG
+* Embedded styles (```<style/>```) inside SVG
+* Embedded styles (``` <style/> ```) outside SVG
 * External Style Sheet
  
 ## Animating SVGs with CSS
@@ -39,7 +39,7 @@ Synchonized Multimedia Integration Language
 SMIL has some advantages over CSS and JS
 * Can anim attrs that CSS can't
 * Event handling & animi sync capabilities
-* Anims work when SVG is embedded as ```<img>``` or as backgr image in CSS
+* Anims work when SVG is embedded as <img> or as backgr image in CSS
  
 SVG SMIL anims work in **all browsers** except IE and Opera Mini
 
