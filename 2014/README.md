@@ -1,7 +1,7 @@
 # 2014
 MC: Jake Archibald [@jaffathecake](https://twitter.com/jaffathecake)
 ## Speakers:
-* Getting nowhere with CSS best practices - Heydon Pickering [@heydonworks](https://twitter.com/heydonworks)
+* Getting nowhere with CSS best practices - [Heydon Pickering](https://twitter.com/heydonworks)
 * Making maps - the role of Frontend Infrastructure at Etsy - [Daniel Espeset](https://twitter.com/danielespeset)
 * Do we need to write markup? - [Nathan Ford](https://twitter.com/nathan_ford)
 * Pushing the real-time web forward - [Arnout Kazemier](https://twitter.com/3rdEden)
