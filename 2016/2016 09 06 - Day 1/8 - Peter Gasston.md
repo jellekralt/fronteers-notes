@@ -1,6 +1,8 @@
 # Surveying the landscape
 
-@stopsatgreen
+* @stopsatgreen
+
+---
 
 > Worrying trend: websites telling you not to use the website
 

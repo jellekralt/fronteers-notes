@@ -1,6 +1,8 @@
 # Scaling FED
 
-@monsika
+* @monsika
+
+---
 
 * How do we describe front end development when it can vary so much?
 * Its fairly easy to write bad frontend code
@@ -12,4 +14,4 @@
     * Builds a culture of feedback and knowledge sharing
 
 
-> Have more conversations 
+> Have more conversations

@@ -1,7 +1,9 @@
 # What about CSS?
 Progressive Enhancement & CSS
 
-bitsofco.de
+* bitsofco.de
+
+---
 
 > The goal of Web design is not merely to dazlle, but to deliver information to the widest audience
 
